@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace MapleShark {
+namespace FiestaShark {
 	public sealed class FiestaStream {
 		private const int DEFAULT_SIZE = 4096;
 		private bool encrypt = false;

@@ -4,11 +4,11 @@ using System;
 using System.Reflection;
 using System.Windows.Forms;
 
-namespace MapleShark {
+namespace FiestaShark {
 	internal static class Program {
 		[STAThread]
 		private static void Main(string[] pArgs) {
-			RegisterFileAssociation(".msb", "MapleShark", "MapleShark Binary File", Assembly.GetExecutingAssembly().Location, string.Empty, 0);
+			RegisterFileAssociation(".msb", "FiestaShark", "FiestaShark Binary File", Assembly.GetExecutingAssembly().Location, string.Empty, 0);
 			RuntimeHost.Initialize();
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);

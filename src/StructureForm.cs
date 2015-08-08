@@ -6,9 +6,9 @@ using System.IO;
 using System.Text;
 using System.Windows.Forms;
 using WeifenLuo.WinFormsUI.Docking;
-using MapleShark.SHN.Datas;
+using FiestaShark.SHN.Datas;
 
-namespace MapleShark {
+namespace FiestaShark {
 	public partial class StructureForm : DockContent
     {
         private FiestaPacket mParsing = null;

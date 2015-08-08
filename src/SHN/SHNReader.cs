@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.IO;
 
-namespace MapleShark.SHN
+namespace FiestaShark.SHN
 {
     public sealed class SHNReader : BinaryReader
     {

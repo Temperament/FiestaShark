@@ -1,7 +1,7 @@
 ﻿using System;
 using WeifenLuo.WinFormsUI.Docking;
 
-namespace MapleShark {
+namespace FiestaShark {
 	public partial class SearchForm : DockContent
     {
     	public static SearchForm Instance { get; private set; }

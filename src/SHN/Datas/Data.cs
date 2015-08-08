@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using MapleShark.SHN.Datas;
+using FiestaShark.SHN.Datas;
 using System.IO;
 using System.Windows.Forms;
 
-namespace MapleShark.SHN.Datas
+namespace FiestaShark.SHN.Datas
 {
     public class Data
     {

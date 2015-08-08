@@ -1,6 +1,6 @@
 ﻿using DevComponents.DotNetBar.Controls;
 
-namespace MapleShark
+namespace FiestaShark
 {
     partial class SearchForm
     {

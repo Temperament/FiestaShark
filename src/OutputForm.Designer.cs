@@ -1,4 +1,4 @@
-﻿namespace MapleShark
+﻿namespace FiestaShark
 {
     partial class OutputForm
     {

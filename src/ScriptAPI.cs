@@ -1,7 +1,7 @@
 ﻿using ScriptNET.Runtime;
 using System.IO;
 
-namespace MapleShark {
+namespace FiestaShark {
 	public sealed class ScriptAPI {
 		private StructureForm mStructure = null;
 

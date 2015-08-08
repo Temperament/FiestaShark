@@ -7,7 +7,7 @@ using System.IO;
 using System.Windows.Forms;
 using WeifenLuo.WinFormsUI.Docking;
 
-namespace MapleShark {
+namespace FiestaShark {
 	public partial class SessionForm : DockContent
     {
         private string mFilename = null;

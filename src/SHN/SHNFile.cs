@@ -7,7 +7,7 @@ using System.Data;
 using System.Threading;
 
 
-namespace MapleShark.SHN
+namespace FiestaShark.SHN
 {
     public delegate void DOnSaveFinished(SHNFile file);
     public delegate void DOnSaveError(SHNFile file, string error);

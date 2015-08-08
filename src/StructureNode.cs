@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace MapleShark {
+namespace FiestaShark {
 	public class StructureNode : TreeNode {
 		public byte[] Buffer;
 		public int Cursor;

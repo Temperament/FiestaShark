@@ -8,7 +8,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Windows.Forms;
 
-namespace MapleShark
+namespace FiestaShark
 {
     public partial class SetupForm : Form
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 
-namespace MapleShark.SHN
+namespace FiestaShark.SHN
 {
     public sealed class DataTableReaderEx : IDisposable
     {

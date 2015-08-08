@@ -3,7 +3,7 @@ using System.Data;
 using System.IO;
 
 
-namespace MapleShark.SHN
+namespace FiestaShark.SHN
 {
     public class SHNColumn : DataColumn
     {

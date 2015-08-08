@@ -2,7 +2,7 @@
 using System.Windows.Forms;
 using WeifenLuo.WinFormsUI.Docking;
 
-namespace MapleShark {
+namespace FiestaShark {
 	public partial class PropertyForm : DockContent
     {
         public PropertyForm()

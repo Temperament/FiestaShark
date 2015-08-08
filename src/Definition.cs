@@ -1,4 +1,4 @@
-﻿namespace MapleShark {
+﻿namespace FiestaShark {
 	public sealed class Definition {
 		public ushort Build = 0;
 		public bool Outbound = false;

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace MapleShark.SHN.Datas
+namespace FiestaShark.SHN.Datas
 {
     public sealed class ItemInfo
     {

@@ -3,9 +3,9 @@ using SharpPcap.Packets;
 using System;
 using System.Windows.Forms;
 using WeifenLuo.WinFormsUI.Docking;
-using MapleShark.SHN.Datas;
+using FiestaShark.SHN.Datas;
 
-namespace MapleShark {
+namespace FiestaShark {
 	public partial class MainForm : Form
     {
         private bool mClosed = false;
@@ -19,7 +19,7 @@ namespace MapleShark {
         public MainForm(string[] pArgs)
         {
             InitializeComponent();
-            Text = "MapleShark " + Program.AssemblyVersion;
+            Text = "FiestaShark " + Program.AssemblyVersion;
             foreach (string arg in pArgs)
             {
                 SessionForm session = NewSession();

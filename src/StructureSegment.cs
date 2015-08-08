@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace MapleShark {
+namespace FiestaShark {
 	public sealed class StructureSegment {
 		private byte[] mBuffer;
 

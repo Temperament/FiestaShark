@@ -3,7 +3,7 @@ using System.IO;
 using System.Reflection;
 using WeifenLuo.WinFormsUI.Docking;
 
-namespace MapleShark {
+namespace FiestaShark {
 	public partial class ScriptForm : DockContent
     {
         private string mPath = "";
@@ -21,7 +21,7 @@ namespace MapleShark {
 
         private void ScriptForm_Load(object pSender, EventArgs pArgs)
         {
-            mScriptEditor.Document.SetSyntaxFromEmbeddedResource(Assembly.GetExecutingAssembly(), "MapleShark.ScriptSyntax.txt");
+            mScriptEditor.Document.SetSyntaxFromEmbeddedResource(Assembly.GetExecutingAssembly(), "FiestaShark.ScriptSyntax.txt");
             if (File.Exists(mPath)) mScriptEditor.Open(mPath);
         }
 

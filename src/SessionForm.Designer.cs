@@ -1,4 +1,4 @@
-﻿namespace MapleShark
+﻿namespace FiestaShark
 {
     partial class SessionForm
     {
@@ -307,7 +307,7 @@
             // 
             // mSaveDialog
             // 
-            this.mSaveDialog.Filter = "MapleShark Binary Files|*.msb";
+            this.mSaveDialog.Filter = "FiestaShark Binary Files|*.msb";
             this.mSaveDialog.RestoreDirectory = true;
             this.mSaveDialog.Title = "Save";
             // 

@@ -3,7 +3,7 @@ using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace MapleShark {
+namespace FiestaShark {
 	public sealed class Config {
 		public string Interface = "";
 		public ushort LowPort = 9000;

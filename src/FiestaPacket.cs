@@ -2,7 +2,7 @@
 using System.Text;
 using System.Windows.Forms;
 
-namespace MapleShark {
+namespace FiestaShark {
 	public sealed class FiestaPacket : ListViewItem {
 		private DateTime mTimestamp;
 		private bool mOutbound;

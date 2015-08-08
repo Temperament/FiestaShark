@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MapleShark {
+namespace FiestaShark {
 	public static class Extensions {
 		public static byte RollLeft(this byte pThis, int pCount) {
 			uint overflow = ((uint)pThis) << (pCount % 8);

@@ -8,12 +8,12 @@
     <ProjectGuid>{01F7E3B6-B831-4D44-8B44-095768212822}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MapleShark</RootNamespace>
+    <RootNamespace>FiestaShark</RootNamespace>
     <AssemblyName>FiestaShark</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ApplicationIcon>Fiesta.ico</ApplicationIcon>
-    <StartupObject>MapleShark.Program</StartupObject>
+    <StartupObject>FiestaShark.Program</StartupObject>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <UpgradeBackupLocation>

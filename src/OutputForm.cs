@@ -1,7 +1,7 @@
 ﻿using System;
 using WeifenLuo.WinFormsUI.Docking;
 
-namespace MapleShark {
+namespace FiestaShark {
 	public partial class OutputForm : DockContent
     {
         public OutputForm(string pTitle)

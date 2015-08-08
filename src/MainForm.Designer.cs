@@ -1,4 +1,4 @@
-﻿namespace MapleShark
+﻿namespace FiestaShark
 {
     partial class MainForm
     {
@@ -187,7 +187,7 @@
             // 
             // mOpenDialog
             // 
-            this.mOpenDialog.Filter = "MapleShark Binary Files|*.msb";
+            this.mOpenDialog.Filter = "FiestaShark Binary Files|*.msb";
             this.mOpenDialog.Multiselect = true;
             this.mOpenDialog.ReadOnlyChecked = true;
             this.mOpenDialog.RestoreDirectory = true;
